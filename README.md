@@ -3,7 +3,7 @@ Este projeto utiliza a tecnologia de visão computacional e aprendizado profundo
 
 # Funcionalidades
 Contabilização de Veículos: Monitora a entrada e saída de veículos em tempo real.<br>
-Classificação de Tipos de Veículos: Identifica e classifica veículos em categorias como carros, ônibus, caminhões, etc.
-Coleta de Dados: Recolhe e armazena dados sobre o fluxo de veículos, intensidade do trânsito e padrões de movimentação.
-Informações para Motoristas: Fornece informações sobre a intensidade do trânsito, sugerindo rotas alternativas e notificando sobre o fluxo de veículos.
-Análise de Tráfego: Gera relatórios e análises sobre o padrão de tráfego para auxiliar na gestão de trânsito e planejamento urbano.
+Classificação de Tipos de Veículos: Identifica e classifica veículos em categorias como carros, ônibus, caminhões, etc.<br>
+Coleta de Dados: Recolhe e armazena dados sobre o fluxo de veículos, intensidade do trânsito e padrões de movimentação.<br>
+Informações para Motoristas: Fornece informações sobre a intensidade do trânsito, sugerindo rotas alternativas e notificando sobre o fluxo de veículos.<br>
+Análise de Tráfego: Gera relatórios e análises sobre o padrão de tráfego para auxiliar na gestão de trânsito e planejamento urbano.<br>
