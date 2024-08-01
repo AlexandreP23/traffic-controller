@@ -1,4 +1,4 @@
-## Controle Inteligente de Tráfego com YOLOv8
+# Controle Inteligente de Tráfego com YOLOv8
 Este projeto utiliza a tecnologia de visão computacional e aprendizado profundo para monitorar e controlar o tráfego de veículos em uma cidade. Usando o modelo YOLOv8s-seg.pt, o sistema realiza a contabilização dos veículos e sua classificação em diferentes categorias, como carros, ônibus, entre outros. Além disso, oferece funcionalidades adicionais para melhorar a gestão do tráfego e fornecer informações úteis aos motoristas.
 
 Funcionalidades
