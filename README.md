@@ -9,3 +9,5 @@ Informações para Motoristas: Fornece informações sobre a intensidade do trâ
 Análise de Tráfego: Gera relatórios e análises sobre o padrão de tráfego para auxiliar na gestão de trânsito e planejamento urbano.<br>
 
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.jpg)
+
+[Video](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.mp4)
