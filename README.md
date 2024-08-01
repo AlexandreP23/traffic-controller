@@ -7,3 +7,5 @@ Classificação de Tipos de Veículos: Identifica e classifica veículos em cate
 Coleta de Dados: Recolhe e armazena dados sobre o fluxo de veículos, intensidade do trânsito e padrões de movimentação.<br>
 Informações para Motoristas: Fornece informações sobre a intensidade do trânsito, sugerindo rotas alternativas e notificando sobre o fluxo de veículos.<br>
 Análise de Tráfego: Gera relatórios e análises sobre o padrão de tráfego para auxiliar na gestão de trânsito e planejamento urbano.<br>
+
+![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.jpg)
