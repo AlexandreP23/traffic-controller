@@ -40,5 +40,11 @@ Após a clonagem, navegue até o diretório do projeto clonado:
 ```
 cd SeuRepositorio
 ```
-## Tabela com os argumentos suportados
+## Tabela com os argumentos para o ObjectCounter
+![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/table_arguments.JPG)
+
+## Tabela com os argumentos para o model.track
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/table_arg.JPG)
+
+## Documentação:
+https://docs.ultralytics.com/guides/object-counting/#what-is-object-counting
