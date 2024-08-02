@@ -10,4 +10,4 @@ Análise de Tráfego: Gera relatórios e análises sobre o padrão de tráfego p
 
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.jpg)
 
-[Video](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.mp4)
+[![Assista à demonstração em vídeo](https://www.youtube.com/watch?v=XLGV9Qzjx-M)
