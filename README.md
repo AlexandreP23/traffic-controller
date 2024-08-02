@@ -11,3 +11,15 @@ Este projeto utiliza a tecnologia de visão computacional e aprendizado profundo
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.jpg)
 
 [![Assista à demonstração em vídeo](https://img.youtube.com/vi/XLGV9Qzjx-M/0.jpg)](https://www.youtube.com/watch?v=XLGV9Qzjx-M)
+
+
+# Clonando o Repositório
+Para começar a usar este projeto, você pode clonar o repositório para a sua máquina local seguindo estes passos:
+
+**1. Obter a URL do Repositório:**
+
+Vá para a página do GitHub deste repositório.
+Clique no botão "Code" (ou "Código") e copie a URL fornecida. 
+```
+https://github.com/AlexandreP23/traffic-controller
+```
