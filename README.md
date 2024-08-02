@@ -10,7 +10,7 @@ Este projeto utiliza a tecnologia de visão computacional e aprendizado profundo
 
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/traffic_couting_output.jpg)
 
-###Link do vídeo no Youtube
+### Link do vídeo no Youtube
 
 [![Assista à demonstração em vídeo](https://img.youtube.com/vi/XLGV9Qzjx-M/0.jpg)](https://www.youtube.com/watch?v=XLGV9Qzjx-M)
 
