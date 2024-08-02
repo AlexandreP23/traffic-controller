@@ -46,5 +46,5 @@ cd SeuRepositorio
 ## Tabela com os argumentos para o model.track
 ![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/table_arg.JPG)
 
-## Documentação:
+## Documentação oficial da Ultralytcs:
 https://docs.ultralytics.com/guides/object-counting/#what-is-object-counting
