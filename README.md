@@ -53,5 +53,5 @@ https://docs.ultralytics.com/guides/object-counting/#what-is-object-counting
 **OpenCV**
 https://opencv.org/
 
-**[Linkedin](https://www.exemplo.com](https://www.linkedin.com/in/alexandre-peres-a085b9a6/)**
+[Me contate pelo Linkedin](https://www.linkedin.com/in/alexandre-peres-a085b9a6/)
 
