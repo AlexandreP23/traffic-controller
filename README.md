@@ -17,9 +17,26 @@ Este projeto utiliza a tecnologia de visão computacional e aprendizado profundo
 Para começar a usar este projeto, você pode clonar o repositório para a sua máquina local seguindo estes passos:
 
 **1. Obter a URL do Repositório:**
-
 Vá para a página do GitHub deste repositório.
-Clique no botão "Code" (ou "Código") e copie a URL fornecida. 
+Clique no botão "Code" (ou "Código") e copie a URL abaixo. 
 ```
 https://github.com/AlexandreP23/traffic-controller
+```
+**2. Abrir o Terminal ou Prompt de Comando:**
+No seu computador, abra o terminal (ou Prompt de Comando no Windows).
+
+**3. Navegar até o Diretório Desejado:**
+Use o comando cd para navegar até o diretório onde você deseja clonar o repositório.
+```
+cd caminho/para/seu/diretorio
+```
+**4. Clonar o Repositório:**
+Execute o comando de clonagem:
+```
+git clone https://github.com/AlexandreP23/traffic-controller
+```
+**5. Navegar até o Diretório do Projeto:**
+Após a clonagem, navegue até o diretório do projeto clonado:
+```
+cd SeuRepositorio
 ```
