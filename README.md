@@ -40,3 +40,5 @@ Após a clonagem, navegue até o diretório do projeto clonado:
 ```
 cd SeuRepositorio
 ```
+## Tabela com os argumentos suportados
+![imagem](https://github.com/AlexandreP23/traffic-controller/blob/main/table_arg.JPG)
